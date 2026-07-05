@@ -1,0 +1,6 @@
+{
+  "Name": "Grade Calculator",
+  "ProjectType": "Process",
+  "Description": "Grade Calculator giving feedback for student",
+  "MainFile": "Main2.xaml"
+}
